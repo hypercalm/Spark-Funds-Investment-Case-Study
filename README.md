@@ -8,5 +8,8 @@ for making investments. The overall strategy is to invest where others are inves
 best sectors and countries are the ones where most investors are.
 
 • The constraints it has on the investment are:
+
   • It has decided to invest between 5 to 15 million USD per round of investment.
+  
   • It is looking to invest only in English speaking nations due to the ease of conducting business with them.
+  
